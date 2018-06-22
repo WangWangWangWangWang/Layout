@@ -15,6 +15,10 @@ img {
 
 }
 
+li,ul,li{
+    list-style: none;
+}
+
 .full-width{
     width: 100%;
 }
@@ -71,4 +75,22 @@ img {
     display: block;
     clear:both;
     /* 去除浮動 */
+}
+
+.btn {
+    display: inline-block;
+    padding: 12px 30px;
+    color: rgb(44, 49, 0);
+    background-color: var(--primaryColor);
+    text-decoration: none;
+}
+
+:root{
+    --primaryColor: #ebc700;
+}
+
+p{
+    color: #444;
+    line-height: 2em;
+    font-size: 14px;
 }
