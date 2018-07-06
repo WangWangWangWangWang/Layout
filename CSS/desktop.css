@@ -1,6 +1,6 @@
 
 nav{
-    /* position: fixed ;  è®????ä¸???????????????? */
+    /* position: fixed ;  éœˆï¿½ï¿½ï¿½ï¿½éŠï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ */
 }
 
 nav a{
@@ -184,7 +184,7 @@ footer a {
 }
 footer p {
     color: #999;
-    margin-bottom: 30px;
+    /* margin-bottom: 30px; */
 }
 footer .author {
     color: #fff;
