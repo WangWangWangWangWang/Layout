@@ -1,7 +1,7 @@
 
-@import url('https://fonts.googleapis.com/css?family=Oswald:400,500');
+@import url('https://fonts.googleapis.com/css?family=Archivo+Narrow:500');
 *{
-    font-family:"Oswald","微軟正黑體",sans-serif;
+    font-family:"Archivo Narrow","微軟正黑體",sans-serif;
     box-sizing : border-box;
 }
 body,h1,h2,h3,h4,h5,h6,p,ul,ol,li{

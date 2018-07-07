@@ -1,6 +1,6 @@
 
 nav{
-    /* position: fixed ;  霈����銝���������������� */
+    /* position: fixed ;  讓最上排融合背景*/
 }
 
 nav a{
@@ -36,6 +36,10 @@ nav .login{
 
 nav .search{
     float: right;
+}
+#banner #imgs{
+    width: 100%;
+    height: 600px;
 }
 
 header{

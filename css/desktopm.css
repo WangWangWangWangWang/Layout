@@ -1,0 +1,145 @@
+
+
+nav a{
+    display: block;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+nav .logo{
+    float: left;
+    margin-right: 50px;
+    font-size: 25px;
+}
+
+nav .menu{
+    float: left;
+}
+
+nav .menu li{
+    float: left;
+}
+
+nav .menu a{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+nav .login{
+    float: right;
+}
+
+
+
+
+
+header a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+header .fixed-width{
+    display: table-cell;
+    vertical-align: middle; 
+}
+
+#bn{
+    width: 800px;
+    height: 120px;
+    text-align: center;
+    margin: auto;
+}
+
+
+.col-2 ul{
+    width: 100%;
+    text-align: center;
+    margin: auto;
+}
+.col-2 li{
+    padding-top:5px; 
+}
+
+#productlist{
+    text-align: center;
+
+}
+
+#productlist img{
+    height: 225px;
+    width: 225px;
+}
+
+
+#pimg{
+    height: 400px;
+    width: 400px;
+}
+
+
+
+
+
+
+
+
+
+
+footer {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #333;
+    color: #fff;
+}
+footer li {
+    line-height: 1.2em;
+}
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
+footer p {
+    color: #999;
+    /* margin-bottom: 30px; */
+}
+footer .author {
+    color: #fff;
+}
+footer h3 {
+    margin-bottom: 30px;
+}
+footer .info {
+    margin: 30px auto;
+}
+
+#sns{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: #eee;
+    background-color:#000;
+    /* margin-right: 10px;
+    margin-left: 10px; */
+}
+
+
+#sns a{
+    color: #fff;
+    margin-left: 5px;
+    margin-right: 5px;
+    text-decoration: none;
+}
+
+
+
+form{
+    height: 600px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+
+
+
