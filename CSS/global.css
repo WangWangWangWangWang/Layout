@@ -99,3 +99,25 @@ p{
 .nopa{
     padding:0!important;
 }
+
+
+footer #sns{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: #000;
+    background-color:#fff;
+
+}
+
+
+#sns a{
+    color: #000;
+    /* margin-left: 5px; */
+    /* margin-right: 5px; */
+    text-decoration: none;
+    
+}
+
+#sns a:hover{
+    color: rgb(137, 161, 0);
+}

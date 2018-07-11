@@ -140,7 +140,7 @@ header .fixed-width{
 
 
 
-footer {
+/* footer {
     padding-top: 50px;
     padding-bottom: 50px;
     background-color: #333;
@@ -155,7 +155,6 @@ footer a {
 }
 footer p {
     color: #999;
-    /* margin-bottom: 30px; */
 }
 footer .author {
     color: #fff;
@@ -165,34 +164,65 @@ footer h3 {
 }
 footer .info {
     margin: 30px auto;
-}
-
-#sns{
-    padding-top: 5px;
-    padding-bottom: 5px;
-    color: #eee;
-    background-color:#000;
-    /* margin-right: 10px;
-    margin-left: 10px; */
-}
+} */
 
 
-#sns a{
-    color: #fff;
-    margin-left: 5px;
-    margin-right: 5px;
+/* form{
+
+} */
+
+#Featured{
+    text-align: center;
     text-decoration: none;
 }
 
+#Featured a{
 
+    text-decoration: none;
+}
 
-form{
-    height: 600px;
+#signin{ 
     text-align: center;
-    margin-top: 50px;
+    margin-top: 10px;
+    margin-bottom: 200px;
+}
+#signin a{ 
+    text-decoration: none;
+    color: #666;
+}
+
+#signin a:hover{ 
+    text-decoration: underline;
+}
+
+#signin .col-6{
+    height: 400px;
+    margin-top: 20px;
+    padding-top: 50px;
+    border-style: solid;
+    border-color: #bbb;
+}
+#signin img{
+    width: 100px;
+    height: 100px;
 }
 
 
+input[type=text],[type=password]{
+    width: 70%;
+    font-size:14px;
+    border-top:0px ;
+    border-left:0px ;
+    border-right:0px ;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
 
-
-
+input[type=submit]{
+    width: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height:25px;
+    border:2px blue none;
+    background-color:#999;
+}
