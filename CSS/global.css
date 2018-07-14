@@ -100,6 +100,49 @@ p{
     padding:0!important;
 }
 
+.logo img{
+    width: 125px;
+    height: 30px;
+
+}
+
+nav div a{
+    display: block;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+nav div .logo{
+    float: left;
+    margin-right: 20px;
+    /* font-size: 25px; */
+}
+
+nav div .menu{
+    float: left;
+}
+
+nav div .menu li{
+    float: left;
+}
+
+nav div .menu a{
+    padding-left: 10px;
+    padding-right: 15px;
+}
+nav div .menu a:hover{
+    color: rgb(137, 161, 0);
+}
+
+nav div .login {
+    float: right;
+}
+
+nav div .login a:hover{
+    color: rgb(137, 161, 0);
+}
 
 footer #sns{
     padding-top: 5px;
