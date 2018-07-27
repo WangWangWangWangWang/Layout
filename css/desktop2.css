@@ -35,7 +35,7 @@ nav .login{
 
 
 
-header{
+/* header{
 
     background-color: beige;
     background-position: center;
@@ -59,8 +59,7 @@ header a{
 header .fixed-width{
     display: table-cell;
     vertical-align: middle; 
-}
-
+} */
 
 #banner {
     position: relative;
@@ -70,7 +69,7 @@ header .fixed-width{
     padding-top: 0;
 }
 
-#banner_list img {
+#banner img {
     border: 0px;
     width: 100%;
     height: 600px;
@@ -80,96 +79,6 @@ header .fixed-width{
     width: 100%;
 }
 
-#banner_bg {
-    position: absolute;
-    bottom: 0;
-    background-color: #000;
-    height: 30px;
-    filter: Alpha(Opacity=30);
-    opacity: 0.3;
-    z-index: 1000;
-    cursor: pointer;
-    width: 100%;
-}
-
-#banner_info {
-    position: absolute;
-    bottom: 0;
-    left: 5px;
-    height: 20px;
-    color: #fff;
-    z-index: 1001;
-    cursor: pointer
-}
-
-/* #banner_text {
-    position: absolute;
-    width: 120px;
-    z-index: 1002;
-    right: 3px;
-    bottom: 3px;
-} */
-
-#banner ul {
-    position: absolute;
-    list-style-type: none;
-    filter: Alpha(Opacity=80);
-    opacity: 0.8;
-    z-index: 1002;
-    margin: 0;
-    padding: 0;
-    bottom: 3px;
-    right: 5px;
-}
-
-#banner ul li {
-    padding: 0px 8px;
-    float: left;
-    display: block;
-    color: #FFF;
-    background: #6f4f67;
-    cursor: pointer;
-    border: 1px solid #333;
-}
-
-#banner ul li.on {
-    background-color: #000;
-}
-
-
-
-
-
-/* footer {
-    padding-top: 50px;
-    padding-bottom: 50px;
-    background-color: #333;
-    color: #fff;
-}
-footer li {
-    line-height: 1.2em;
-}
-footer a {
-    color: #fff;
-    text-decoration: none;
-}
-footer p {
-    color: #999;
-}
-footer .author {
-    color: #fff;
-}
-footer h3 {
-    margin-bottom: 30px;
-}
-footer .info {
-    margin: 30px auto;
-} */
-
-
-/* form{
-
-} */
 
 #Featured{
     text-align: center;
