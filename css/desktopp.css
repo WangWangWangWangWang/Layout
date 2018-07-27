@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 
     /* .fixed-width{
         width: 800px;
         margin: auto;
     }*/
+=======
+    /**/
+    .fixed-width{
+        width: 800px;
+        margin: auto;
+    }
+>>>>>>> b6eed3da319879f71fdb14aa65e9db1060219ca0
     input[type=text]{
         width: 50%;
         font-size:14px;
@@ -15,12 +23,15 @@
         
     }
 
+<<<<<<< HEAD
     input[name=total]{
         border-left: 0px;
         border-right:0px;
         border-top: 0px;
     }
 
+=======
+>>>>>>> b6eed3da319879f71fdb14aa65e9db1060219ca0
 
     .state{
         padding-top: 104px; 
